@@ -1,7 +1,6 @@
 /*
     Multi-view Image Restoration
-    This software library implements the maxflow algorithm described in
-
+ 
 	"Multi-view Image Restoration From Plenoptic Raw Images"
 	 Shan Xu, Zhi-Liang Zhou and Nicholas Devaney
 	In Asian Conference on Computer Vision 2014
