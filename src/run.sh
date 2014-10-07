@@ -1,0 +1,9 @@
+./lf_rec ../dataset/ bird
+./lf_rec ../dataset/ calabash
+./lf_rec ../dataset/ color_chart
+./lf_rec ../dataset/ iso_chart7
+./lf_rec ../dataset/ jumper
+./lf_rec ../dataset/ toy_map
+./lf_rec ../dataset/ parrot
+./lf_rec ../dataset/ street
+./lf_rec ../dataset/ tulip
